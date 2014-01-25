@@ -1,0 +1,16 @@
+name: ZOFE trampos
+description: curadoria em oportunidades de trabalho
+meta_description: "Vagas de trabalho em desenvolvimento web curadas por Daniel Filho e Zeno Rocha"
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# deploy
+# baseurl: /trampos
+permalink: /trampo/:year-:month-:day-:title
+
+# Details for the RSS feed generator
+url:            'http://trampos.zofe.com.br'
+author:         'ZOFE Trampos'
