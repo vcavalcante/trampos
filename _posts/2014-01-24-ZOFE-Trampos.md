@@ -9,7 +9,7 @@ ano novo, novos projetos com as mesmas novas intenções: fortalecer e ajudar a 
 
 você tem todo direito de achar piegas, ou achar que não estamos ajudando muito, mas se cada um fizer um pouco (incluindo você), a gente vai pra frente.
 
-o ano mal começou e o mercado está super aquecido e, depois de receber muitas propostas de emprego - seguidas de pedido de indicação - resolvi criar este espaço para vagas seletas em desenvolvimento web, com enfoque principal no front-end.
+o ano mal começou e o mercado está super aquecido e, depois de receber algumas propostas de emprego - seguidas de pedido de indicação - muito boas, por sinal, resolvi criar este espaço para vagas seletas em desenvolvimento web, com enfoque principal no front-end.
 
 a intenção não é ter volume, mas ter qualidade. é bem possível que você apareça por aqui e não veja nenhuma vaga, saiba que isso será normal e não um "fracasso" :)
 
