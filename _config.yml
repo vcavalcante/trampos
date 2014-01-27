@@ -7,10 +7,11 @@ pygments: true
 logo: false
 paginate: 15
 
-# deploy
-baseurl: /trampos
-permalink: /vaga/:year-:month-:day-:title
+# links
+baseurl: http://zofe.com.br/trampos
+permalink: /:year-:month-:day-:title
+relative_permalink: false
 
 # Details for the RSS feed generator
-url:            'http://trampos.zofe.com.br'
-author:         'ZOFE Trampos'
+url:            'http://zofe.com.br/trampos'
+author:         'Zone of Front-Enders'
