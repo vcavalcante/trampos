@@ -8,8 +8,8 @@ logo: false
 paginate: 15
 
 # deploy
-# baseurl: /trampos
-permalink: /trampo/:year-:month-:day-:title
+baseurl: /trampos
+permalink: /vaga/:year-:month-:day-:title
 
 # Details for the RSS feed generator
 url:            'http://trampos.zofe.com.br'
