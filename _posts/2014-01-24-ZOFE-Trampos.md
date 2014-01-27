@@ -17,7 +17,7 @@ quando eu (Daniel) tive a idéia, fui falar com Zeno e ele topou na hora. fiz tu
 
 ### como vai funcionar?
 
-as propostas de emprego deverão ser enviadas através do formulário com um link para um [gist][gist]. este [gist][gist] deverá conter informações como **empresa contratante**, **e-mail para contato**, **requisitos mandatórios para o candidato**, **requisitos desejáveis e diferenciais**, **localização geográfica exata do trabalho**.
+para enviar uma proposta de emprego, você deverá abrir uma [*issue*][issue] no repositório do projeto, com um link para seu fork deste [gist][gist]. este [gist][gist] deverá conter informações como **empresa contratante**, **e-mail para contato**, **requisitos mandatórios para o candidato**, **requisitos desejáveis e diferenciais**, **localização geográfica exata do trabalho**.
 
 coloque entre *(parênteses)* valores que vão entre 1 e 5, para descrever o quão avançado o candidato deve ser naquele assunto, ou o quão importante é aquilo que está pedindo, sendo 1 para o mais básico e 5 para o mais avançado.
 
@@ -50,3 +50,4 @@ esperamos que vocês gostem :)
 
 
 [gist]: https://gist.github.com/
+[issue]: https://github.com/zofepod/trampos/issues
