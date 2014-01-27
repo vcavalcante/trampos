@@ -49,5 +49,5 @@ esperamos que vocês gostem :)
 
 
 
-[gist]: https://gist.github.com/
+[gist]: https://gist.github.com/danielfilho/8652380
 [issue]: https://github.com/zofepod/trampos/issues
