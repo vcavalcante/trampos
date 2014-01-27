@@ -23,7 +23,7 @@ coloque entre *(parênteses)* valores que vão entre 1 e 5, para descrever o qu�
 
 o [gist][gist] que deve ser clonado, preenchido e enviado é o seguinte:
 
-<script src="https://gist.github.com/danielfilho/c8dcb49e286d25c1be94.js"></script>
+{% gist 8652380 %}
 
 ### quanto vai custar para anunciar uma vaga?
 
