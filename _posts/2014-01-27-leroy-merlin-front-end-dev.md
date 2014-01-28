@@ -2,7 +2,7 @@
 layout: post
 title:  "Front-End Dev: Leroy Merlin"
 date:   2014-01-27 9:21:59
-categories: zofe
+categories: vaga, sp, sao paulo
 ---
 
 (região de interlagos, são paulo - sp)
