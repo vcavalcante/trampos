@@ -32,11 +32,25 @@ img.profile {
 }
 
 /*****************************************************************************/
-/*
 /* gist
-/*
 /*****************************************************************************/
 
 #readme.readme {
   padding: 0 1em;
+}
+
+/*****************************************************************************/
+/* closed
+/*****************************************************************************/
+.closed:after {
+  position: absolute;
+  display: block;
+  top: 20px;
+  left: 0;
+  width: 593px;
+  height: 121px;
+  border: 0;
+  border-radius: 0;
+  box-shadow: unset;
+  background: transparent url('/assets/images/vaga-preenchida.png') no-repeat;
 }

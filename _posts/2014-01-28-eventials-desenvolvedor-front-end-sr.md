@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Desenvolvedor Front-End SR: Eventials"
+status: closed
 date:   2014-01-28 17:22:48
 categories: vaga, sp, santo amaro
 ---

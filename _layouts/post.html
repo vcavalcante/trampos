@@ -6,7 +6,7 @@ archive: false
 
 <main class="content" role="main">
 
-  <article class="post">
+  <article class="post{% if post.status %} closed{%endif%}">
     <header class="post-header">
       <a id="blog-logo" href="{{site.baseurl}}">
         {% if site.logo %}
