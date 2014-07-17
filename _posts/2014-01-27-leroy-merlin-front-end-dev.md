@@ -2,6 +2,7 @@
 layout: post
 title:  "Front-End Dev: Leroy Merlin"
 date:   2014-01-27 9:21:59
+status: closed
 categories: vaga, sp, sao paulo
 ---
 
