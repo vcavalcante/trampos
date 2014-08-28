@@ -1,7 +1,10 @@
 /* Rosario. I've added and changed few things. Feel free to change it as you like */
 
 /* Font size of 2.0 is too big, I'll reduce it */
-body {font-size: 1.9rem;}
+body {
+  font-size: 1.9rem;
+  overflow-x: hidden;
+}
 
 /* Adding some text shadow*/
 .site-head a { color:#333; }
@@ -53,4 +56,27 @@ img.profile {
   border-radius: 0;
   box-shadow: unset;
   background: transparent url('/trampos/assets/images/vaga-preenchida.png') no-repeat;
+}
+
+/*****************************************************************************/
+/* Anunciar
+/*****************************************************************************/
+.anunciar {
+  background-color: #E8DDCB;
+  position: fixed;
+  top: 2em;
+  right: -64px;
+  color: #333;
+  padding: 1em;
+  opacity: .7;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  transition: right .3s ease-in-out, opacity .3s ease-in-out;
+}
+.anunciar:hover {
+  right: 0;
+  opacity: 1;
+}
+.anunciar a {
+  text-decoration: none;
 }
