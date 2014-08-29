@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Frontend Engineer: Clickbus (Rocket-internet)"
-date:   2014-01-28 17:22:48
+date:   2014-08-29 13:37
 ---
 
 (próximo ao villa lobos av. queiroz filho, 1700, são paulo - sp || local)
