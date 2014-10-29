@@ -2,6 +2,7 @@
 layout: post
 title:  "Desenvolvedor Web Pleno: Netshoes"
 date:   2014-10-06 13:37
+status: closed
 ---
 
 (metrô vergueiro)

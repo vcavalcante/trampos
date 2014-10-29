@@ -2,6 +2,7 @@
 layout: post
 title:  "Amaro: Desenvolvedor Front-end - Junior"
 date:   2014-08-29 13:37
+status: closed
 ---
 
 (Rua Barra do Tibagi, Bom Retiro, São Paulo - SP)
