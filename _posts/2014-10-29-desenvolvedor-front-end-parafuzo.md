@@ -2,7 +2,7 @@
 layout: post
 title:  "Desenvolvedor Front-End - Parafuzo"
 date:   2014-10-29 13:37
-status: 
+status: closed
 ---
 
 (rua frei galvão 69 - são paulo - sp || remoto)

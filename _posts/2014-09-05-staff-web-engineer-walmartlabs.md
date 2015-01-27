@@ -2,6 +2,7 @@
 layout: post
 title:  "Staff Web Engineer - @WalmartLabs"
 date:   2014-09-05 13:37
+status: closed
 ---
 
 (carlsbad, san diego county, california)
@@ -10,10 +11,10 @@ date:   2014-09-05 13:37
     * required: bachelor's, computer engineering and/or computer science
     * preferred: master's, computer engineering and/or computer science
 * required skills:
-    * experience in html and css 
+    * experience in html and css
     * expert understanding of javascript & ajax languages
     * experience with testing cross-browser, cross-platform, and/or cross-device compatibility for inconsistencies
-    * testing for compliance to specified standards such as accessibility standards in the clients region or domain 
+    * testing for compliance to specified standards such as accessibility standards in the clients region or domain
     * experience in writing unit tests for javascript
     * interpreting graphic visual or interaction designs in html, css and javascript
     * extensive experience with common javascript and css libraries, particularly jquery, backbone, handlebars, and twitter bootstrap

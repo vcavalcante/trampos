@@ -2,7 +2,7 @@
 layout: post
 title:  "Desenvolvedor Front-End JR - Trendi"
 date:   2014-10-27 13:37
-status: 
+status: closed
 ---
 
 (região da berrini, são paulo - sp)
@@ -12,14 +12,14 @@ status:
 * conhecimento necessário:
   * html (3)
   * css (3)
-  * javascript (1) 
+  * javascript (1)
 * conhecimento desejável:
-  * bower 
-  * grunt 
-  * less  
+  * bower
+  * grunt
+  * less
 * benefícios
   * vale transporte
-  * vale refeição 
+  * vale refeição
 
 #### descrição
 

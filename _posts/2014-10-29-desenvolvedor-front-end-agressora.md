@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Desenvolvedor Front-End - Agressora" 
+title:  "Desenvolvedor Front-End - Agressora"
 date:   2014-10-28 13:37
-status: 
+status: closed
 ---
 
 (belo horizonte || remoto)
@@ -26,7 +26,7 @@ status:
 * Dedicação: Total (somos ciumentos e possessivos)
 * Horário: Mais flexível que vara verde
 * Vestimenta: Quando em uma videoconferência, esperamos que esteja vestido pelo menos da cintura pra cima
-* Salário: Média do mercado pro seu XP 
+* Salário: Média do mercado pro seu XP
 * Ações (equity): Now we are talking business! Possibilidade de ganhar participação e virar sócio
 
 \*: *a escala vai de 1 até 5*
