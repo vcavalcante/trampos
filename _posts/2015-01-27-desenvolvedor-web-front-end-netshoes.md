@@ -21,6 +21,7 @@ status:
     * gerenciamento de módulos
   * responsividade
   * acessibilidade
+  * teste a/b
 * conhecimento desejável:
   * metodologia(s) ágil(eis)
   * mvc / mv*
