@@ -42,7 +42,7 @@ não.
 
 nada.
 
-"*mentira*". ganharemos a satisfação de poder ter ajudado um profissional em sua carreira, e ajudar uma empresa a achar alguém que se encaixe ao seu perfíl. o resto eu e Zeno conseguimos no trabalho :)
+"*mentira*". ganharemos a satisfação de poder ter ajudado um profissional em sua carreira, e ajudar uma empresa a achar alguém que se encaixe ao seu perfíl. o resto eu consigo no trabalho :)
 
 
 esperamos que vocês gostem :)
