@@ -50,12 +50,13 @@ img.profile {
   display: block;
   top: 20px;
   left: 0;
-  width: 593px;
+  width: 100%;
   height: 121px;
   border: 0;
   border-radius: 0;
   box-shadow: unset;
   background: transparent url('/trampos/assets/images/vaga-preenchida.png') no-repeat;
+  background-size: 100% 100%;
 }
 
 /*****************************************************************************/
